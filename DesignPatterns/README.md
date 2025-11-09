@@ -9,4 +9,4 @@
 
 ### 3. Behavioural
 
-[def]: DesignPatterns/Creational/Factory/
+[def]: DesignPatterns/Creational/Factory
