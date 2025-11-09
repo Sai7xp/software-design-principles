@@ -2,16 +2,14 @@
 
 ## Design Patterns
 
-#### 1. Creational Patterns
+#### 1. Creational
 
 - Singleton
 - [Factory Method][def]
 
-#### 2. Structural
+#### 2. Structural Patterns
 
-#### 3. Behavioural
-
-DesignPatterns/Creational/Factory/Factory.java
+#### 3. Behavioural Patterns
 
 ## SOLID Principles
 
@@ -21,4 +19,4 @@ DesignPatterns/Creational/Factory/Factory.java
 
 ## Clean Code Practices
 
-[def]: DesignPatterns/Creational/Factory
+[def]: DesignPatterns/Creational/FactoryMethod
